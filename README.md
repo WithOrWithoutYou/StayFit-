@@ -4,6 +4,12 @@
 ![StayFit!_Main](https://user-images.githubusercontent.com/68497879/121859672-f658b680-cd32-11eb-83b0-4f17b31dda38.jpg)
 
 
+# Load Database and uploade Excel file then save it as a Table! [1]
+![image](https://user-images.githubusercontent.com/68497879/121861156-8c411100-cd34-11eb-9fce-ffb0e6d4fd4f.png)
+
+# Load Database and uploade Excel file then save it as a Table! [2]
+![LoadExcel](https://user-images.githubusercontent.com/68497879/121861022-661b7100-cd34-11eb-980a-3e95ee589959.jpg)
+
 
 
 # Data Process
